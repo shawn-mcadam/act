@@ -1,4 +1,4 @@
-# act
+# ACT
 ### A Leanified version of Seven Sketches in Compositionality: An Invitation to Applied Category Theory.
 
 To make changes to this public github repo, you must
