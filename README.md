@@ -1,9 +1,9 @@
 # ACT
 ### A Leanified version of Seven Sketches in Compositionality: An Invitation to Applied Category Theory.
 
-To make changes to this public github repo, you must
-- `git pull` the repo so you're caught up
-- `git add` any files you want to change
+The only file you will edit probably ever need to edit is `act.lean`. To make changes to this repo, you must
+- `git pull` the repo so you're caught up to other people's changes
+- `git add` any of your local files you've changed
 - `git commit -m "explain my changes here"`
 - `git push`
 
