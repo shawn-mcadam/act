@@ -10,3 +10,7 @@ The only file you will edit probably ever need to edit is `act.lean`. To make ch
 You must then create a pull request (PR) and the repo maintainer will decide whether to use your changes.
 
 [![Open this repo in your own GitHub Codespace](https://github.com/codespaces/badge.svg)](https://codespaces.new/shawn-mcadam/act)
+
+$e^{i\pi} + 1 = 0$
+
+\f$e^{i\pi} + 1 = 0\f$
